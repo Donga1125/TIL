@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6fbbd92-aa5a-4885-b5d1-1c0cacac0547" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SQL/S231213/가장비싼상품구하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/S231213/가격이제일비싼식품의정보출력하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/S231218/고양이와개는몇마리있을까.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/S231218/즐겨찾기가가장많은식당정보출력하기.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/S231213/가장비싼상품구하기.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/S231213/가장비싼상품구하기.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/동물수구하기.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/S231213/동물수구하기.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/중복제거하기.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/S231213/중복제거하기.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/최댓값구하기.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/S231213/최댓값구하기.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/최솟값구하기.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/S231213/최솟값구하기.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +54,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Spring" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DONG-A\TIL\SQL\S231213" />
     </key>
   </component>
   <component name="RunManager" selected="Application.StrToInt">
