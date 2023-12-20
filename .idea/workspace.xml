@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6fbbd92-aa5a-4885-b5d1-1c0cacac0547" name="Changes" comment="" />
+    <list default="true" id="e6fbbd92-aa5a-4885-b5d1-1c0cacac0547" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Algorithm/A231220/기능개발.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +51,7 @@
       <recent name="C:\Users\DONG-A\TIL\SQL\S231213" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StrToInt">
+  <component name="RunManager" selected="Application.기능개발">
     <configuration name="올바른괄호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithm.스택_큐.올바른괄호" />
       <module name="TIL" />
@@ -69,6 +71,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Algorithm.A231213.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="기능개발" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.A231220.기능개발" />
+      <module name="TIL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.A231220.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,6 +184,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.기능개발" />
         <item itemvalue="Application.나머지가1이되는수" />
         <item itemvalue="Application.StrToInt" />
         <item itemvalue="Application.올바른괄호" />
