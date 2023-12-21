@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6fbbd92-aa5a-4885-b5d1-1c0cacac0547" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/A231220/기능개발.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/S231221/자동차대여기록에서대여중_대여가능여부구분하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/S231221/진료과별_총예약횟수출력하기.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +53,7 @@
       <recent name="C:\Users\DONG-A\TIL\SQL\S231213" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.기능개발">
+  <component name="RunManager" selected="Application.StrToInt">
     <configuration name="올바른괄호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithm.스택_큐.올바른괄호" />
       <module name="TIL" />
@@ -78,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="기능개발" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.A231220.기능개발" />
+    <configuration name="StrToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.StrToInt" />
       <module name="TIL" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithm.A231220.*" />
+          <option name="PATTERN" value="Algorithm.A231213.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.StrToInt" />
+    <configuration name="기능개발" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.A231220.기능개발" />
       <module name="TIL" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithm.A231213.*" />
+          <option name="PATTERN" value="Algorithm.A231220.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,7 +186,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.기능개발" />
         <item itemvalue="Application.나머지가1이되는수" />
         <item itemvalue="Application.StrToInt" />
         <item itemvalue="Application.올바른괄호" />
