@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6fbbd92-aa5a-4885-b5d1-1c0cacac0547" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SQL/S231222/대여횟수가많은자동차들의_월별대여횟수구하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/S231223/동명동물수찾기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/S231223/식품분류별가장비싼식품의정보조회하기.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
