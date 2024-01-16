@@ -4,6 +4,7 @@
 
 - JAVA 알고리즘 (프로그래머스)
 - SQL 풀이
+- 정보처리기사
 
 
 ## 📤 Convention Rule
