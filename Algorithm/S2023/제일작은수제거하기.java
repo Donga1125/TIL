@@ -1,4 +1,4 @@
-package Algorithm;
+package Algorithm.S2023;
 
 public class 제일작은수제거하기 {
     //리턴하려는 배열이 빈 배열인 경우엔 배열에 -1을 채워 리턴

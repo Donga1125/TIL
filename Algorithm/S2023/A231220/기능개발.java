@@ -1,4 +1,4 @@
-package Algorithm.A231220;
+package Algorithm.S2023.A231220;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package Algorithm;
+package Algorithm.S2023;
 
 public class 나머지가1이되는수 {
 

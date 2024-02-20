@@ -1,4 +1,4 @@
-package Algorithm.A231213;
+package Algorithm.S2023.A231213;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package Algorithm;
+package Algorithm.S2023;
 
 public class 없는숫자더하기 {
 

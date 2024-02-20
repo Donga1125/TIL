@@ -1,4 +1,4 @@
-package Algorithm.A231219;
+package Algorithm.S2023.A231219;
 
 import java.util.*;
 public class 같은숫자는싫어 {

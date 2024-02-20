@@ -1,4 +1,4 @@
-package Algorithm;
+package Algorithm.S2023;
 
 public class 부족한금액계산하기 {
 

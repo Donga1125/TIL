@@ -1,4 +1,4 @@
-package Algorithm.A231213;
+package Algorithm.S2023.A231213;
 
 public class 최대공약수와최소공배수 {
     //배열의 맨 앞에 최대공약수, 그다음 최소공배수를 넣어 반환
