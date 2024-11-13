@@ -40,7 +40,7 @@ public class 방금그곡 {
     }
 
 
-    
+
     //시작 시간과 종료 시간을 이용해 재생 시간을 분 단위로 계산
     private static int calculatePlayTime(String start, String end) {
         String[] startTime = start.split(":");
