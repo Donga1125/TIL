@@ -1,4 +1,6 @@
-## Thread Safe
+## Thread Safe 
+( Thread Safe 한 자료구조가 있을까요? 없다면, 어떻게 Thread Safe 하게 구성할 수 있을까요?)
+
 Thread Safe한 자료구조란, 여러 스레드가 동시에 접근하더라도 일관성 있는 상태를 유지하고 동시성 문제없이 안전하게 데이터를 처리할 수 있는 자료 구조를 말한다. 
 
 
